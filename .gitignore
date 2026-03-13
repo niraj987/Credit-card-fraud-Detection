@@ -1,0 +1,16 @@
+# Dataset and large files
+data/
+*.csv
+
+# Python environments
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+venv/
+env/
+.env
+
+# MacOS/Windows OS files
+.DS_Store
+Thumbs.db
